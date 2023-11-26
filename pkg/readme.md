@@ -1,6 +1,6 @@
 # Packages for embed vulnerabilities.
 
-## Hartbread
+## Heartbread
 ### Install
 ```
 $ opkg -i libopenssl_1.0.1f-1_ar71xx.ipk
