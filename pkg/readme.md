@@ -1,4 +1,4 @@
-# Packages for embed valnerabilities.
+# Packages for embed vulnerabilities.
 
 ## Hartbread
 ```
